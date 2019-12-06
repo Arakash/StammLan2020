@@ -18,3 +18,5 @@ StammLan2020
 | 12+ | CS:GO | https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/ |
 | 2-10?| Company of Heroes 1 | https://store.steampowered.com/app/228200/Company_of_Heroes/ |
 | 2-10? | Company of Heroes 2 | https://store.steampowered.com/agecheck/app/231430/ |
+| 12 | Call of Duty 2 | ... |
+| 8 | Diablo 2 Hardcore | |
