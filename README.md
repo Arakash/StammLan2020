@@ -20,3 +20,4 @@ StammLan2020
 | 2-10? | Company of Heroes 2 | https://store.steampowered.com/agecheck/app/231430/ |
 | 12 | Call of Duty 2 | ... |
 | 8 | Diablo 2 Hardcore | |
+| 12 | Natural Selection (2) | |
