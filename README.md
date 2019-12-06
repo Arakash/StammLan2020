@@ -15,3 +15,6 @@ StammLan2020
 | 10? |Supreme Commander FAF| https://store.steampowered.com/app/9420 |
 | | LAN MODE | https://forums.faforever.com/viewtopic.php?f=2&t=15978 | 
 | 4-6??| Battlerite | https://store.steampowered.com/app/504370/Battlerite/?l=german |
+| 12+ | CS:GO | https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/ |
+| 2-10?| Company of Heroes 1 | https://store.steampowered.com/app/228200/Company_of_Heroes/ |
+| 2-10? | Company of Heroes 2 | https://store.steampowered.com/agecheck/app/231430/ |
