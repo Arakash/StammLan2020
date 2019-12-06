@@ -14,3 +14,4 @@ StammLan2020
 |     4       | Deep Rock Galactic  | https://store.steampowered.com/app/548430/Deep_Rock_Galactic/ |
 | 10? |Supreme Commander FAF| https://store.steampowered.com/app/9420 |
 | | LAN MODE | https://forums.faforever.com/viewtopic.php?f=2&t=15978 | 
+| 4-6??| Battlerite | https://store.steampowered.com/app/504370/Battlerite/?l=german |
