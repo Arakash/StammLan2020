@@ -22,3 +22,9 @@ StammLan2020
 | 8 | Diablo 2 Hardcore | |
 | 12 | Natural Selection (2) | |
 | 4-16 | THE SHIP | |
+| 1-4 | Grim Dawn | https://www.gog.com/game/grim_dawn |
+| 1-8 | Warcraft II | https://www.gog.com/game/warcraft_2_battlenet_edition | 
+| 1-10?| Stronghold Crusader | https://www.gog.com/game/stronghold_crusader |
+| 8? | Serious Sam 2 | https://www.gog.com/game/serious_sam_the_second_encounter |
+| 8 | 8bit Armies | https://www.gog.com/game/8bit_armies |
+| 2-8| 8bit Invaders | https://www.gog.com/game/8bit_invaders |
