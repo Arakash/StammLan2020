@@ -28,3 +28,4 @@ StammLan2020
 | 8? | Serious Sam 2 | https://www.gog.com/game/serious_sam_the_second_encounter |
 | 8 | 8bit Armies | https://www.gog.com/game/8bit_armies |
 | 2-8| 8bit Invaders | https://www.gog.com/game/8bit_invaders |
+| ? | Earth Defence Force | |
